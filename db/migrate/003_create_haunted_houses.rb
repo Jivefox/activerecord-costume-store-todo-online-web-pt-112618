@@ -1,7 +1,7 @@
 class HauntedHouse
 
   def change
-    create_table
+    create_table :haunted_houses
   end
 
 end
